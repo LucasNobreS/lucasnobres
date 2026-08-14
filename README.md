@@ -96,24 +96,24 @@ Meu objetivo é desenvolver soluções úteis, fortalecer meus fundamentos técn
 
 <div align="center">
 
-<a href="https://github.com/lucasnobre">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasnobre&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=58A6FF&text_color=F0F6FC&ring_color=00E5FF" alt="Lucas Nobre's GitHub statistics"/>
+<a href="https://github.com/lucasnobres">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasnobres&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=58A6FF&text_color=F0F6FC&ring_color=00E5FF" alt="Lucas Nobre's GitHub statistics"/>
 </a>
 
-<a href="https://github.com/lucasnobre">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnobre&layout=compact&langs_count=4&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=F0F6FC" alt="Lucas Nobre's top languages"/>
+<a href="https://github.com/lucasnobres">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnobres&layout=compact&langs_count=4&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=F0F6FC" alt="Lucas Nobre's top languages"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/lucasnobre">
-  <img src="https://streak-stats.demolab.com?user=lucasnobre&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=58A6FF&currStreakLabel=00E5FF&sideLabels=8B949E&dates=8B949E" alt="Lucas Nobre's GitHub streak"/>
+<a href="https://github.com/lucasnobres">
+  <img src="https://streak-stats.demolab.com?user=lucasnobres&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=58A6FF&currStreakLabel=00E5FF&sideLabels=8B949E&dates=8B949E" alt="Lucas Nobre's GitHub streak"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/lucasnobre">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasnobre&bg_color=0D1117&color=F0F6FC&line=00E5FF&point=58A6FF&area=true&area_color=0D2636&hide_border=true&custom_title=Contribution%20Activity" alt="Lucas Nobre's GitHub activity graph"/>
+<a href="https://github.com/lucasnobres">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasnobres&bg_color=0D1117&color=F0F6FC&line=00E5FF&point=58A6FF&area=true&area_color=0D2636&hide_border=true&custom_title=Contribution%20Activity" alt="Lucas Nobre's GitHub activity graph"/>
 </a>
 
 </div>
@@ -124,7 +124,7 @@ Meu objetivo é desenvolver soluções úteis, fortalecer meus fundamentos técn
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucasnobre&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lucasnobres&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies"/>
 
 </div>
 
@@ -134,7 +134,7 @@ Meu objetivo é desenvolver soluções úteis, fortalecer meus fundamentos técn
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lucasnobre/lucasnobre/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/lucasnobres/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
@@ -157,7 +157,7 @@ a partir do histórico de contribuições do perfil.
 
 <div align="center">
 
-<a href="https://github.com/lucasnobre">
+<a href="https://github.com/lucasnobres">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="GitHub"/>
 </a>
 
