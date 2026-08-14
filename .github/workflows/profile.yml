@@ -9,6 +9,10 @@ permissions:
 jobs:
   trophy:
     runs-on: ubuntu-latest
+    
+    # Força o runner a atualizar actions legadas para o Node.js 24
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repository
