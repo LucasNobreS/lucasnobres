@@ -1,178 +1,178 @@
+Optimized tool selection<!-- Banner / System Initialization -->
 <div align="center">
+  <!-- Futuristic minimal SVG banner -->
+  <svg width="100%" height="140" viewBox="0 0 1200 140" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="System initializing banner">
+    <defs>
+      <linearGradient id="g1" x1="0" x2="1">
+        <stop offset="0" stop-color="#0D1117"/>
+        <stop offset="1" stop-color="#071018"/>
+      </linearGradient>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#g1)"/>
+    <g transform="translate(40,26)">
+      <text x="0" y="28" fill="#58A6FF" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="20" font-weight="600">SYSTEM INITIALIZING</text>
+      <g transform="translate(0,48)">
+        <rect x="0" y="0" rx="6" ry="6" width="1120" height="66" fill="#06070a" stroke="#0b1220" stroke-width="1"/>
+        <g transform="translate(18,44)" fill="#00E5FF" font-family="Consolas, 'Courier New', monospace" font-size="14">
+          <text x="0" y="-18" fill="#58A6FF" font-weight="700" font-size="18">LUCAS NOBRE</text>
+          <text x="0" y="0" fill="#00E5FF">Software Development Student</text>
+          <text x="260" y="0" fill="#8B949E">ADS @ FATEC Sorocaba</text>
+        </g>
+      </g>
+      <!-- status lines -->
+      <g transform="translate(0,120)" fill="#8B949E" font-family="Consolas, 'Courier New', monospace" font-size="12">
+        <text x="0" y="0">• Loading developer profile... <tspan fill="#00E5FF">ok</tspan></text>
+        <text x="240" y="0">• Loading skills... <tspan fill="#00E5FF">ok</tspan></text>
+        <text x="460" y="0">• Loading projects... <tspan fill="#00E5FF">pending</tspan></text>
+        <text x="640" y="0">• Loading objectives... <tspan fill="#00E5FF">ok</tspan></text>
+        <text x="880" y="0">• System ready.</text>
+      </g>
+    </g>
+  </svg>
 
-# `LUCAS NOBRE`
+  <!-- Typing animation (SVG-based, GitHub-compatible) -->
+  <svg width="640" height="46" viewBox="0 0 640 46" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Typing animation">
+    <rect width="100%" height="100%" fill="#0D1117"/>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="16">
+      <text x="18" y="30" fill="#F0F6FC">⟫</text>
 
-### `SYSTEM INITIALIZATION`
+      <text x="42" y="30" fill="#58A6FF">
+        <tspan id="s1">ADS Student @ FATEC Sorocaba</tspan>
+        <animate attributeName="opacity" values="1;0;0;0;0" dur="12s" repeatCount="indefinite"/>
+      </text>
+      <text x="42" y="30" fill="#00E5FF">
+        <tspan id="s2">Learning Python</tspan>
+        <animate attributeName="opacity" values="0;1;0;0;0" dur="12s" begin="2.4s" repeatCount="indefinite"/>
+      </text>
+      <text x="42" y="30" fill="#58A6FF">
+        <tspan id="s3">Building with HTML, CSS &amp; JavaScript</tspan>
+        <animate attributeName="opacity" values="0;0;1;0;0" dur="12s" begin="4.8s" repeatCount="indefinite"/>
+      </text>
+      <text x="42" y="30" fill="#00E5FF">
+        <tspan id="s4">Future Software Developer</tspan>
+        <animate attributeName="opacity" values="0;0;0;1;0" dur="12s" begin="7.2s" repeatCount="indefinite"/>
+      </text>
+      <text x="42" y="30" fill="#58A6FF">
+        <tspan id="s5">Looking for my first opportunity in tech</tspan>
+        <animate attributeName="opacity" values="0;0;0;0;1" dur="12s" begin="9.6s" repeatCount="indefinite"/>
+      </text>
 
-```text
-[ OK ] Loading developer profile...
-[ OK ] Loading technical skills...
-[ OK ] Loading career objectives...
-[ OK ] Loading development environment...
-
-SYSTEM STATUS: READY
-```
-
-**Software Development Student**
-**ADS @ FATEC Sorocaba**
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=ADS+Student+%40+FATEC+Sorocaba;Learning+Python;Building+with+HTML%2C+CSS+%26+JavaScript;Future+Software+Developer;Looking+for+my+first+opportunity+in+tech" alt="Typing animation" />
-
+      <!-- subtle cursor -->
+      <rect x="590" y="14" width="6" height="12" fill="#58A6FF">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </svg>
 </div>
 
 ---
 
-## `> Sobre Mim`
+## Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC Sorocaba**, construindo minha base em programação e desenvolvimento web.
-
-Atualmente, estudo e pratico **HTML5, CSS3, JavaScript e Python**, buscando evoluir por meio de projetos reais e experiências práticas.
-
-Meu objetivo é desenvolver soluções úteis, fortalecer meus fundamentos técnicos e me preparar para contribuir cada vez mais no mercado de tecnologia.
-
-**Status profissional:** desenvolvedor em formação · buscando estágio / primeira oportunidade em tecnologia e desenvolvimento.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na FATEC Sorocaba. Tenho conhecimentos em HTML5, CSS3, JavaScript e Python. Busco evoluir tecnicamente por meio de projetos reais, entregar soluções úteis e conquistar minha primeira oportunidade na área de tecnologia (estágio ou vaga júnior). Trabalho com foco em aprendizagem prática, precisão e melhoria contínua.
 
 ---
 
-## `⚡ Tech Stack`
+## ⚡ Tech Stack
 
-<div align="center">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-</a>
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-</a>
-
-</div>
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) HTML5  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS3  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) Python
 
 ---
 
-## `🖥️ Current Objectives`
+## 🖥️ Current Objectives
 
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  lucas@github:~$ cat objectives.txt                         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  > Build useful solutions                                    │
-│  > Improve through real projects                             │
-│  > Strengthen programming fundamentals                       │
-│  > Expand my technical knowledge                             │
-│  > Develop practical experience                              │
-│  > Prepare for the professional market                       │
-│  > Find my first opportunity in tech                         │
-│                                                              │
-│  STATUS: LEARNING • BUILDING • EVOLVING                      │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
+<pre style="background:#06070a;border:1px solid #0b1220;padding:12px;border-radius:8px;color:#F0F6FC;font-family:Consolas, 'Courier New', monospace;">
+lucas@github:~$ cat objectives.txt
+> Build useful solutions
+> Improve through real projects
+> Strengthen programming fundamentals
+> Expand technical knowledge in core languages
+> Prepare for the professional market
+> Find first opportunity in tech (estágio / júnior)
+</pre>
 
 ---
 
-## `🚀 Projects`
+## 🚀 Projects
 
-<div align="center">
+Building, experimenting and learning through practical projects.  
+More projects coming soon — esta seção está preparada para adicionar cards de projetos de forma simples.
 
-> Building, experimenting and learning through practical projects.
-
-**More projects coming soon.**
-
+<!-- Estrutura preparada para futuros cards:
+<div class="projects">
+  <!-- Ao adicionar um projeto, coloque um cartão com título, breve descrição e link -->
 </div>
-
----
-
-## `📊 GitHub Analytics`
-
-<div align="center">
-
-<a href="https://github.com/lucasnobres">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasnobres&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=58A6FF&text_color=F0F6FC&ring_color=00E5FF" alt="Lucas Nobre's GitHub statistics"/>
-</a>
-
-<a href="https://github.com/lucasnobres">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnobres&layout=compact&langs_count=4&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=F0F6FC" alt="Lucas Nobre's top languages"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/lucasnobres">
-  <img src="https://streak-stats.demolab.com?user=lucasnobres&theme=dark&hide_border=true&background=0D1117&ring=00E5FF&fire=58A6FF&currStreakLabel=00E5FF&sideLabels=8B949E&dates=8B949E" alt="Lucas Nobre's GitHub streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/lucasnobres">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasnobres&bg_color=0D1117&color=F0F6FC&line=00E5FF&point=58A6FF&area=true&area_color=0D2636&hide_border=true&custom_title=Contribution%20Activity" alt="Lucas Nobre's GitHub activity graph"/>
-</a>
-
-</div>
-
----
-
-## `🏆 GitHub Trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucasnobres&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## `🐍 Contribution Activity`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lucasnobres/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
-<!--
-SNAKE SETUP
-
-Para gerar a animação acima, crie o arquivo:
-.github/workflows/snake.yml
-
-O workflow deve utilizar GitHub Actions + Platane/snk para gerar:
-output/github-contribution-grid-snake.svg
-
-Depois de executado pela primeira vez, a imagem acima será atualizada automaticamente
-a partir do histórico de contribuições do perfil.
 -->
 
 ---
 
-## `🌐 Connect With Me`
+## 📊 GitHub Analytics
 
 <div align="center">
+  <!-- GitHub Readme Stats -->
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucasnobres&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="420" />
 
-<a href="https://github.com/lucasnobres">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="GitHub"/>
-</a>
+  <!-- Top Languages -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnobres&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" width="300" />
+</div>
 
-<a href="https://www.linkedin.com/in/lucas-couto-a8199a326">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
+<div align="center" style="margin-top:8px;">
+  <!-- Streak -->
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=lucasnobres&theme=dark&hide_border=true" width="420" />
 
+  <!-- Activity Graph -->
+  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lucasnobres&theme=react-dark&hide_border=true" width="720" />
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
+
 <div align="center">
-
-### `Always learning. Building with purpose.`
-
-**Lucas Nobre**
-
+  <img src="https://github-profile-trophy.vercel.app/?username=lucasnobres&theme=gruvbox-dark&no-frame=true&column=3" alt="GitHub Trophies" />
 </div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <!-- Snake animated SVG (serviço de geração compatível com GitHub) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg?user=lucasnobres" alt="Contribution Snake" />
+</div>
+
+<!--
+  Para gerar a animação Snake atualizada automaticamente, pode-se adicionar uma GitHub Action.
+  Exemplo de arquivo (apenas referência; não incluir aqui como código executável):
+  snake.yml
+  - Use a ação oficial do repositório 'Platane/snk' ou outra que gere 'snake.svg' no diretório do README.
+-->
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/lucasnobres 
+  ![GitHub Badge](https://img.shields.io/badge/GitHub-lucasnobres-181717?style=flat-square&logo=github&logoColor=white)
+
+- LinkedIn: https://www.linkedin.com/in/lucas-couto-a8199a326  
+  ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+
+---
+
+<footer align="center" style="padding-top:12px">
+  <div style="background:#06070a;border:1px solid #0b1220;padding:12px;border-radius:8px;display:inline-block;color:#8B949E;font-family:Inter, 'Segoe UI', Arial,sans-serif;">
+    Evoluir através de prática, projetos reais e disciplina técnica.  
+    <div style="margin-top:6px;font-weight:600;color:#F0F6FC">Lucas Nobre</div>
+  </div>
+</footer>
