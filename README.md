@@ -1,21 +1,52 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0D1117&text=LUCAS%20NOBRE&fontColor=58A6FF&fontSize=42&fontAlignY=38&desc=Software%20Development%20Student%20%7C%20ADS%20%40%20FATEC%20Sorocaba&descColor=8B949E&descSize=16&descAlignY=62" width="100%" alt="Lucas Nobre"> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&height=45&lines=ADS+Student+%40+FATEC+Sorocaba;Learning+Python;Building+with+HTML%2C+CSS+%26+JavaScript;Future+Software+Developer;Looking+for+my+first+opportunity+in+tech" alt="Typing animation"> <br> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=0D1117" alt="System Online"> </div>
-> ABOUT_ME
+<div align="center">
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Sorocaba, construindo minha base em programação e desenvolvimento web.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0D1117&text=LUCAS%20NOBRE&fontColor=58A6FF&fontSize=42&fontAlignY=38&desc=Software%20Development%20Student%20%7C%20ADS%20%40%20FATEC%20Sorocaba&descColor=8B949E&descSize=16&descAlignY=62" width="100%" alt="Lucas Nobre">
 
-Atualmente, tenho conhecimentos em HTML5, CSS3, JavaScript e Python, buscando evoluir por meio da prática, de projetos reais e do fortalecimento dos meus fundamentos técnicos.
+<br>
 
-Meu objetivo é desenvolver soluções úteis, evoluir tecnicamente por meio de projetos reais e me preparar para entregar cada vez mais valor no mercado de tecnologia.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&height=45&lines=ADS+Student+%40+FATEC+Sorocaba;Learning+Python;Building+with+HTML%2C+CSS+%26+JavaScript;Future+Software+Developer;Looking+for+my+first+opportunity+in+tech" alt="Typing animation">
 
-Atualmente, busco uma primeira oportunidade ou estágio na área de tecnologia e desenvolvimento.
+<br>
 
-> TECH_STACK
-⚡ Tech Stack
-<div align="center"> <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"> </div>
-> CURRENT_OBJECTIVES
-🖥️ Current Objectives
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=0D1117" alt="System Online">
+
+</div>
+
+---
+
+## `> ABOUT_ME`
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC Sorocaba**, construindo minha base em programação e desenvolvimento web.
+
+Atualmente, tenho conhecimentos em **HTML5, CSS3, JavaScript e Python**, buscando evoluir por meio da prática, de projetos reais e do fortalecimento dos meus fundamentos técnicos.
+
+Meu objetivo é **desenvolver soluções úteis, evoluir tecnicamente por meio de projetos reais e me preparar para entregar cada vez mais valor no mercado de tecnologia**.
+
+Atualmente, busco uma **primeira oportunidade ou estágio na área de tecnologia e desenvolvimento**.
+
+---
+
+## `> TECH_STACK`
+
+### ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+
+</div>
+
+---
+
+## `> CURRENT_OBJECTIVES`
+
+### 🖥️ Current Objectives
+
+```text
 lucas@github:~$ cat objectives.txt
-
 
 [01] Build useful solutions
 [02] Improve through real projects
@@ -24,11 +55,16 @@ lucas@github:~$ cat objectives.txt
 [05] Prepare for the professional market
 [06] Find my first opportunity in tech
 
-
 lucas@github:~$ _
-> PROJECTS
-🚀 Projects
-<div align="center"> <br>
+```
+
+---
+
+## `> PROJECTS`
+
+### 🚀 Projects
+
+<div align="center">
 
 <strong>Building, experimenting and learning through practical projects.</strong>
 
@@ -41,31 +77,92 @@ lucas@github:~$ _
 <sub>Projects will be added here as they are developed and refined.</sub>
 
 </div>
-> GITHUB_ANALYTICS
-📊 GitHub Analytics
-<div align="center"> <a href="https://github.com/LucasNobreS"> <img src="https://github-readme-stats.vercel.app/api?username=LucasNobreS&show_icons=true&hide_border=true&theme=github_dark&count_private=false&include_all_commits=true" height="170" alt="GitHub Statistics"> </a> <a href="https://github.com/LucasNobreS"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNobreS&layout=compact&hide_border=true&theme=github_dark&langs_count=6" height="170" alt="Top Languages"> </a>
+
+---
+
+## `> GITHUB_ANALYTICS`
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/LucasNobreS">
+<img src="https://github-readme-stats.vercel.app/api?username=LucasNobreS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="170" alt="GitHub Stats">
+</a>
+
+<a href="https://github.com/LucasNobreS">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNobreS&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="170" alt="Top Languages">
+</a>
 
 <br><br>
 
-<a href="https://github.com/LucasNobreS"> <img src="https://streak-stats.demolab.com/?user=LucasNobreS&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub Streak"> </a>
+<a href="https://github.com/LucasNobreS">
+<img src="https://streak-stats.demolab.com/?user=LucasNobreS&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub Streak">
+</a>
 
 <br><br>
 
-<a href="https://github.com/LucasNobreS"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasNobreS&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="90%" alt="GitHub Contribution Activity Graph"> </a> </div>
-> GITHUB_TROPHIES
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=LucasNobreS&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" alt="GitHub Profile Trophies"> </div>
-> CONTRIBUTION_ACTIVITY
-🐍 Contribution Activity
-<div align="center"> <img src="https://raw.githubusercontent.com/LucasNobreS/lucasnobres/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%"> </div> <!-- ============================================================ SNAKE SETUP ============================================================ A cobra acima é gerada automaticamente por GitHub Actions. O workflow deve estar localizado em: .github/workflows/snake.yml no repositório: LucasNobreS/lucasnobres Conteúdo do snake.yml: name: Generate Snake on: schedule: - cron: "0 0 * * *" workflow_dispatch: permissions: contents: write jobs: generate: runs-on: ubuntu-latest steps: - name: Generate Snake uses: Platane/snk@v3 with: github_user_name: LucasNobreS outputs: | dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg?palette=github-dark - name: Deploy Snake uses: crazy-max/ghaction-github-pages@v4 with: build_dir: dist env: GH_PAT: ${{ secrets.GITHUB_TOKEN }} Depois que a Action executar com sucesso, ela criará a branch "output" e o SVG utilizado neste README. ============================================================ -->
-> CONNECT
-🌐 Connect With Me
-<div align="center"> <a href="https://github.com/LucasNobreS"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="GitHub"> </a>
+<a href="https://github.com/LucasNobreS">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasNobreS&bg_color=0D1117&color=F0F6FC&line=58A6FF&point=00E5FF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub Activity Graph">
+</a>
 
- 
+</div>
 
-<a href="https://www.linkedin.com/in/lucas-couto-a8199a326"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"> </a> </div>
-<div align="center"> <br> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF" width="100%" alt="">
+---
+
+## `> GITHUB_TROPHIES`
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LucasNobreS&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies">
+
+</div>
+
+---
+
+## `> CONTRIBUTION_ACTIVITY`
+
+### 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasNobreS/lucasnobres/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasNobreS/lucasnobres/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/LucasNobreS/lucasnobres/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake">
+</picture>
+
+</div>
+
+---
+
+## `> CONNECT`
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/LucasNobreS">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="GitHub">
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/lucas-couto-a8199a326">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF" width="100%" alt="">
 
 <br><br>
 
