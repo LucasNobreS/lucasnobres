@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# `LUCAS NOBRE`
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=400&lines=Lucas+Nobre;Software+Developer" alt="Lucas Nobre Typing">
 
 ### `SYSTEM INITIALIZATION`
 
