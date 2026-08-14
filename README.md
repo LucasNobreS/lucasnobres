@@ -16,7 +16,7 @@ SYSTEM STATUS: READY
 **Software Development Student**
 **ADS @ FATEC Sorocaba**
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=ADS+Student+%40+FATEC+Sorocaba;Learning+Python;Building+with+HTML%2C+CSS+%26+JavaScript;Future+Software+Developer;Looking+for+my+first+opportunity+in+tech" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=ADS+Student+%40+FATEC+Sorocaba;Learning+Python;Building+with+HTML%2C+CSS+%26+JavaScript;Future+Software+Developer;Looking+for+my+first+opportunity+in+tech" alt="Typing animation">
 
 </div>
 
@@ -97,11 +97,11 @@ Meu objetivo é desenvolver soluções úteis, evoluir tecnicamente por meio de 
 <div align="center">
 
 <a href="https://github.com/lucasnobres">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasnobres&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=58A6FF&text_color=F0F6FC&ring_color=00E5FF" alt="Lucas Nobre's GitHub statistics">
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=lucasnobres&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=58A6FF&text_color=F0F6FC" alt="Lucas Nobre's GitHub statistics">
 </a>
 
 <a href="https://github.com/lucasnobres">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnobres&layout=compact&langs_count=4&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=F0F6FC" alt="Lucas Nobre's top languages">
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=lucasnobres&layout=compact&langs_count=4&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=F0F6FC" alt="Lucas Nobre's top languages">
 </a>
 
 <br>
