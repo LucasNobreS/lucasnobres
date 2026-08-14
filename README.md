@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=450&lines=Lucas+Nobre;Software+Developer;ADS+Student" alt="Lucas Nobre Typing">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=LUCAS%20NOBRE&fontSize=40&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20ADS%20%40%20FATEC%20Sorocaba&descSize=16&descColor=58A6FF&descAlignY=62" alt="Header Banner" />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logo=icloud&logoColor=00E5FF&labelColor=0D1117" alt="Status Online">
-<img src="https://img.shields.io/badge/FATEC-SOROCABA-58A6FF?style=for-the-badge&logo=graduation-dot-com&logoColor=58A6FF&labelColor=0D1117" alt="FATEC Sorocaba">
+<img
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=System+Online+%E2%9C%93;Learning+Python+and+Building+Web+Apps;Looking+for+my+first+opportunity+in+tech"
+alt="Typing animation"
+/>
 
-<br><br>
-
-```text
-[ SYS_INIT ] Developer profile loaded  •  Skills loaded  •  Environment ready
+</div>
 
 ---
 
