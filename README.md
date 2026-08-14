@@ -1,28 +1,16 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=400&lines=Lucas+Nobre;Software+Developer" alt="Lucas Nobre Typing">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=450&lines=Lucas+Nobre;Software+Developer;ADS+Student" alt="Lucas Nobre Typing">
 
-### `SYSTEM INITIALIZATION`
+<br>
 
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&logo=icloud&logoColor=00E5FF&labelColor=0D1117" alt="Status Online">
+<img src="https://img.shields.io/badge/FATEC-SOROCABA-58A6FF?style=for-the-badge&logo=graduation-dot-com&logoColor=58A6FF&labelColor=0D1117" alt="FATEC Sorocaba">
 
-[ OK ] Developer profile loaded
-[ OK ] Technical skills loaded
-[ OK ] Career objectives loaded
-[ OK ] Development environment ready
+<br><br>
 
-SYSTEM STATUS: ONLINE
-
-
-**Software Development Student**
-**ADS @ FATEC Sorocaba**
-
-<img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=ADS+Student+%40+FATEC+Sorocaba;Learning+Python;Building+with+HTML%2C+CSS+%26+JavaScript;Future+Software+Developer;Looking+for+my+first+opportunity+in+tech"
-alt="Typing animation"
-/>
-
-</div>
+```text
+[ SYS_INIT ] Developer profile loaded  •  Skills loaded  •  Environment ready
 
 ---
 
