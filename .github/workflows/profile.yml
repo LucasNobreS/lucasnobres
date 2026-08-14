@@ -36,5 +36,5 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "chore: update GitHub trophy"
-            git push
+            git push origin HEAD:${{ github.ref_name }}
           fi
