@@ -118,50 +118,52 @@ lucas@github:~$ _
 
 ---
 
+
 ## `> GITHUB_TROPHIES`
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucasnobres&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="95%" alt="GitHub profile trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=lucasnobres&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies">
 
 </div>
-
-> O GitHub Profile Trophy permite configurar quantidade de linhas/colunas e tema diretamente pelos parâmetros da URL.
 
 ---
 
 ## `> CONTRIBUTION_SNAKE`
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lucasnobres/lucasnobres/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasnobres/lucasnobres/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasnobres/lucasnobres/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/lucasnobres/lucasnobres/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</picture>
 
 </div>
 
 <!--
-============================================================
-SNAKE SETUP
-============================================================
+A COBRA PRECISA SER GERADA POR GITHUB ACTIONS.
 
-Esta imagem só funcionará depois que uma GitHub Action
-gerar o SVG no repositório:
+No repositório de perfil:
 
-https://github.com/lucasnobres/lucasnobres
+lucasnobres/lucasnobres
 
-Arquivo esperado:
+crie:
 
+.github/workflows/snake.yml
+
+O workflow deve gerar os arquivos:
+
+output/github-contribution-grid-snake.svg
 output/github-contribution-grid-snake-dark.svg
 
-O README não executa JavaScript.
-
-============================================================
+Depois que a Action executar com sucesso, a cobra aparecerá automaticamente acima.
 -->
 
----
 
 ## `> CONNECT`
 
