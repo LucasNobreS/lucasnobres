@@ -5,8 +5,8 @@
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=System+Online+%E2%9C%93;Learning+Python+and+Building+Web+Apps;Looking+for+my+first+opportunity+in+tech"
-alt="Typing animation"
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=5000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=L U C A S N O B R E;🚀.........................LUCASNOBRE;⚡_LUCASNOBRE;> (SYSTEM_STATUS:ONLINE);_&fontColor=00E5FF"
+alt="Space Invaders Typing Illusion"
 />
 
 </div>
