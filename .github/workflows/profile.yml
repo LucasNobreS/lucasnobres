@@ -9,25 +9,22 @@ permissions:
 jobs:
   trophy:
     runs-on: ubuntu-latest
-    
-    # Força o runner a atualizar actions legadas para o Node.js 24
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate GitHub Profile Trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        uses: ryo-ma/github-profile-trophy@v1
         with:
           username: lucasnobres
-          token: ${{ github.token }}
-          file: ./trophy.svg
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
           theme: darkhub
-          no-background: true
-          no-frame: true
-          max-cols: 6
+          no-background: "true"
+          no-frame: "true"
+          column: "6"
+          output_action: save
+          file_output: trophy.svg
 
       - name: Commit trophy
         run: |
