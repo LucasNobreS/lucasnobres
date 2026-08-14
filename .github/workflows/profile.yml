@@ -18,8 +18,12 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: lucasnobres
-          output_path: trophy.svg
           token: ${{ github.token }}
+          file: ./trophy.svg
+          theme: darkhub
+          no-background: true
+          no-frame: true
+          max-cols: 6
 
       - name: Commit trophy
         run: |
