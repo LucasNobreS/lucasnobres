@@ -142,7 +142,7 @@ alt="GitHub contribution activity graph"
   >
 </a>
 
-<a href="https://www.linkedin.com/in/lucas-couto-a8199a326">
+<a href="https://www.linkedin.com/in/lucas-couto-daniel-nobre-da-silva-a8199a326">
   <img
     src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
     alt="LinkedIn"
