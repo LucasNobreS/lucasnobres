@@ -95,7 +95,7 @@ Meu objetivo é desenvolver soluções úteis, evoluir tecnicamente por meio de 
 
 <div align="center">
 
-<a href="https://github.com/lucasnobres">
+<a href="https://github.com/lucasnobres/">
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=lucasnobres&bg_color=0D1117&color=F0F6FC&line=00E5FF&point=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Activity"
