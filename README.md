@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=LUCAS%20NOBRE&fontSize=40&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20ADS%20%40%20FATEC%20Sorocaba&descSize=16&descColor=58A6FF&descAlignY=62" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=LUCAS%20NOBRE&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20ADS%20%40%20FATEC%20Sorocaba&descSize=16&descColor=58A6FF&descAlignY=62" alt="Header Banner" />
 
 <br>
 
